@@ -1,0 +1,8 @@
+/target
+*.lib
+*.exe
+*.dll
+/old_frequency
+.vscode
+Syosetu711K
+frequency_list_ipadic.json
